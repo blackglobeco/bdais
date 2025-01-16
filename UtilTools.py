@@ -1,7 +1,7 @@
 from langchain.tools import BaseTool
 from langchain.llms import OpenAI
 from langchain.llms.base import BaseLLM
-from googlesearch_py import search
+from googlesearch import search
 from pydantic import Field
 import asyncio, time, json
 # RemoteTools.py
