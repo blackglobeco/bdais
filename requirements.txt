@@ -1,7 +1,6 @@
-langchain
-openai
+langchain==0.0.140
+openai==0.27.0
 requests
 googlesearch-python
 termux-api
 langchain-community
-langchain-openai
