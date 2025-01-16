@@ -1,4 +1,7 @@
 langchain
 openai
 requests
-googlesearch.py
+googlesearch-python
+termux-api
+langchain-community
+langchain-openai
