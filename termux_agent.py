@@ -32,7 +32,7 @@ def shutdown_server():
         pass
     return 'ok'
 
-def main(host='127.0.0.1', port=8080):
+def main(host='0.0.0.0', port=8080):
     app.run(host=host, port=port)
 
 if __name__ == '__main__':
